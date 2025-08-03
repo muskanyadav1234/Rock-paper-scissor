@@ -41,8 +41,4 @@ Muskan Yadav
 
 Enjoy the game! 🎉
 
-yaml
-Copy code
-
-git clone https://github.com/muskanyadav1234/Rock-paper-scissor.git
 
